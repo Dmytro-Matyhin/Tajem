@@ -1,0 +1,9 @@
+.nav-item {
+  font-weight: 400;
+  padding-left: 25px;
+}
+
+.nav-item:hover {
+  text-decoration: none;
+  color: #06cdc3;
+}
